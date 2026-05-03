@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي في صمت الليل أناديكي
+> يا قلبي في كل نبضة ألاقيكي
+> شوقي مثل النار في أحلامي
+> ونورك هو الدليل في أيامي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
